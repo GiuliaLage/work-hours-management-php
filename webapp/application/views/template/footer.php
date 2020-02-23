@@ -34,7 +34,7 @@
             </div>
             <div class="form-group">
               <button id="modal-save" type="submit" class="btn button-login">Salvar</button>
-              <button id="modal-fade" type="button" class="btn bt000n-secondary" data-dismiss="modal">Cancelar</button>
+              <button id="modal-fade" type="button" class="btn" data-dismiss="modal">Cancelar</button>
             </div>
           </form>
         </div>

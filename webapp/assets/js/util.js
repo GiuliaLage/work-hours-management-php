@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:80/webapp/";
+const BASE_URL = "http://localhost:80/Helloby-Webapp/webapp/"; 
 
 
 function clearMessage(){
