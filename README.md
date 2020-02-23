@@ -18,7 +18,7 @@
 
 Helloby-Webapp/webapp/application/config/database.php
 
-- rodar o script que se encontra na pasta Helloby-Webapp/webapp/webAppDbScript
+- rodar o script que se encontra na pasta Helloby-Webapp/webAppDbScript
 
 - Ligar o servidor e acessar o link: 
 
