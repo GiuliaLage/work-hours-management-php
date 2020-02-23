@@ -14,7 +14,7 @@ class Home extends CI_Controller	{
         }
         else{
 
-            header("Location: http://localhost/webapp/");
+            header("Location: http://localhost/Helloby-Webapp/webapp/");
         }
 
        
