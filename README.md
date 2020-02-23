@@ -1,20 +1,20 @@
 # Helloby-Webapp
 
-##############
-# Requisitos #
-##############
+
+
+
+ # Requisitos #
 
 - Apache - modulo rewrite_module ativo 
 - PHP 7.2+
 - mysqlserver 
 
-###############
-#Procedimentos# 
-###############
 
-- Criar uma base de dados com o nome hellobye
+# Procedimentos # 
 
-OBS: Para configurar senha/host/username basta acessar o caminho: 
+- Criar uma base de dados
+
+- configurar senha/host/username/databse acessando o caminho: 
 
 Helloby-Webapp/webapp/application/config/database.php
 
