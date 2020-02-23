@@ -1,0 +1,34 @@
+.card{
+
+    width: 210px !important;
+    height:830px;
+    border-style: none !important;
+    background-color:#f8f9fa;
+}
+
+#bater-ponto{
+   margin-bottom: 50px; 
+   width: 150px;
+   background-color: #9b0000 !important;
+   color: white;
+
+}
+
+#pontos{
+
+    width: 150px;
+}
+
+
+.postition-cointainer{
+    margin-top: -800px;
+    width: 2000x;
+  
+}
+
+#edit , #modal-save, #logout{
+   
+    background-color: #9b0000 !important;
+   color: white;
+}
+
